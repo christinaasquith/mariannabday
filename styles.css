@@ -1,0 +1,26 @@
+body{ 
+    text-align: center;
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 40px;
+padding-bottom: 40px;    
+background-color: #717CAE;
+color: white;
+line-height: 30px;
+text-rendering:geometricPrecision;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 50px;
+    padding-top: 30px;
+    margin: 0px;
+  }
+
+  img {
+    width: max-content;
+    height: auto;
+    border-radius: 10%;
+    overflow: hidden;
+    width: 50%;
+  }
